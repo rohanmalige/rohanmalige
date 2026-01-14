@@ -4,7 +4,7 @@
 
 I hold a B.S. in Computer Science & Engineering from the **University of California, Davis**. I love building cross-platform mobile apps, designing intelligent machine learning systems, and exploring blockchain technology.
 
-- 🔭 I’m currently working on a **Parkinson's Research App** (iOS) for the **Ben Shalom Lab** and **CrypGo** (Crypto Wallet).
+- 🔭 I’m currently working on a **Parkinson’s Research App** (iOS) for the **Dr. Chang Lab** and developing ML pipelines for neuroscience research.
 - 👯 I’m looking to collaborate on **Open Source Machine Learning projects**.
 - 🤝 I’m the **Co-founder of the Machine Learning Student Network** and **Tech Director** at the Google Developer Student Club.
 - ⚡ **Fun fact:** I love pushing myself to learn new skills, ranging from **Generative AI** to **CUDA programming**!
@@ -44,11 +44,18 @@ I hold a B.S. in Computer Science & Engineering from the **University of Califor
 
 ## 🚀 Key Projects
 
-### 🧠 [Parkinson's Research App (CPA)](https://github.com/rohanmalige)
-**Clinical iOS Application for the Ben Shalom Lab**
-* Built with **Swift** and **SwiftUI** to monitor Parkinson's patients via daily questionnaires and cognitive games.
-* Implements standardized clinical scales like **MDS-UPDRS**, **PDQ-39**, and **FOG-Q** (Freezing of Gait).
-* Features local data persistence with **UserDefaults** and secure data handling for patient privacy.
+### 🧠 Parkinson’s Research App (CPA)
+**Clinical iOS Research Application — :contentReference[oaicite:0]{index=0} | :contentReference[oaicite:1]{index=1}**
+A research-grade iOS application for longitudinal monitoring of Parkinson’s disease symptoms in study participants.
+
+- Built using **Swift** and **SwiftUI** with a modular, questionnaire-driven architecture.
+- Implements validated clinical scales including **MDS-UPDRS**, **PDQ-39**, **PFS-16**, **KPPS**, **BDI-II**, **SCOPA-AUT**, **PAS**, and **FOG-Q**.
+- Supports **daily check-ins** and **monthly questionnaires**, with responses stored as structured **question–answer pairs** for clinical interpretability.
+- Backend powered by **AWS (API Gateway, Lambda, DynamoDB)**; patient data is uploaded securely and **never stored locally on-device**.
+- Designed for controlled, internal research deployment (non–App Store distribution) with clinician-facing analysis planned via a future dashboard.
+
+> *Developed in collaboration with clinical researchers for real-world Parkinson’s disease studies.*
+
 
 ### 🧪 [Neuronal Spike Analysis Pipeline (MEA_Analysis)](https://github.com/rohanmalige/MEA_Analysis/tree/dev_branch)
 **Ben Shalom Lab | UC Davis MIND Institute**
