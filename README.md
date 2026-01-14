@@ -50,6 +50,14 @@ I hold a B.S. in Computer Science & Engineering from the **University of Califor
 * Implements standardized clinical scales like **MDS-UPDRS**, **PDQ-39**, and **FOG-Q** (Freezing of Gait).
 * Features local data persistence with **UserDefaults** and secure data handling for patient privacy.
 
+### 🧪 [Neuronal Spike Analysis Pipeline (MEA_Analysis)](https://github.com/rohanmalige/MEA_Analysis/tree/dev_branch)
+**Ben Shalom Lab | UC Davis MIND Institute**
+* Developed a scalable **ETL pipeline** for analyzing **single-neuron spike data** from lab-grown mouse brains to support early detection of neurological diseases.
+* Built using **Python**, **SpikeInterface**, and **Kilosort**, with **multiprocessing optimizations** achieving up to **80% speedup**.
+* Migrated compute-intensive workflows to **NERSC supercomputers** for high-throughput neural data processing.
+* Designed an interactive **Plotly Dash web application** for uploading **CSV / MATLAB** data and generating spike histograms, firing-rate plots, and **LDA visualizations**.
+* Applied **machine learning classification techniques** to distinguish **healthy vs. diseased neuron activity**, with model interpretability using **SHAP**.
+
 ### 📱 [CrypGo](https://github.com/rohanmalige/crypgo)
 **Mobile Crypto Wallet & Blockchain Fabric**
 * Developed using **React Native** and **ResilientDB**.
@@ -80,6 +88,7 @@ I hold a B.S. in Computer Science & Engineering from the **University of Califor
 ### 📫 Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rohanmalige/)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rohan.malige@gmail.com)
+
 <!--
 **rohanmalige/rohanmalige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -94,4 +103,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanmalige)](https://github.com/rohanmalige/rohanmalige/blob/main/README.md)
+<!--[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanmalige)](https://github.com/rohanmalige/rohanmalige/blob/main/README.md)-->
