@@ -6,7 +6,7 @@ I hold a B.S. in Computer Science & Engineering from the **University of Califor
 
 - 🔭 I’m currently working on a **Parkinson’s Research App** (iOS) for the **Dr. Chang Lab** and developing ML pipelines for neuroscience research.
 - 👯 I’m looking to collaborate on **Open Source Machine Learning projects**.
-- 🤝 I’m the **Co-founder of the Machine Learning Student Network** and **Tech Director** at the Google Developer Student Club.
+- 🤝 I’m the **Co-founder of the Machine Learning Student Network** and was a **Tech Director** at the Google Developer Student Club. I was also the VP of Marketing and Tech Lead for [SacHacks](https://sachacks.io/)
 - ⚡ **Fun fact:** I love pushing myself to learn new skills, ranging from **Generative AI** to **CUDA programming**!
 
 ---
