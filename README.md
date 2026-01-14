@@ -4,7 +4,7 @@
 
 I hold a B.S. in Computer Science & Engineering from the **University of California, Davis**. I love building cross-platform mobile apps, designing intelligent machine learning systems, and exploring blockchain technology.
 
-- 🔭 I’m currently working on **DocuVault** (iOS Health Data Privacy) and **CrypGo** (Crypto Wallet).
+- 🔭 I’m currently working on a **Parkinson's Research App** (iOS) for the **Ben Shalom Lab** and **CrypGo** (Crypto Wallet).
 - 👯 I’m looking to collaborate on **Open Source Machine Learning projects**.
 - 🤝 I’m the **Co-founder of the Machine Learning Student Network** and **Tech Director** at the Google Developer Student Club.
 - ⚡ **Fun fact:** I love pushing myself to learn new skills, ranging from **Generative AI** to **CUDA programming**!
@@ -44,17 +44,17 @@ I hold a B.S. in Computer Science & Engineering from the **University of Califor
 
 ## 🚀 Key Projects
 
+### 🧠 [Parkinson's Research App (CPA)](https://github.com/rohanmalige)
+**Clinical iOS Application for the Ben Shalom Lab**
+* Built with **Swift** and **SwiftUI** to monitor Parkinson's patients via daily questionnaires and cognitive games.
+* Implements standardized clinical scales like **MDS-UPDRS**, **PDQ-39**, and **FOG-Q** (Freezing of Gait).
+* Features local data persistence with **UserDefaults** and secure data handling for patient privacy.
+
 ### 📱 [CrypGo](https://github.com/rohanmalige/crypgo)
 **Mobile Crypto Wallet & Blockchain Fabric**
 * Developed using **React Native** and **ResilientDB**.
 * Allows users to access accounts, submit transactions, and view activity on the go via GraphQL APIs.
 * Focused on secure, seamless mobile blockchain interaction.
-
-### 🔒 [DocuVault](https://github.com/rohanmalige/docuvault)
-**Secure iOS Document Storage**
-* Native iOS application built with **Swift** and **SwiftUI**.
-* Designed for secure storage of sensitive raw health data.
-* Integrated **Auth0** for secure access, prioritizing HIPAA compliance and patient privacy.
 
 ### 🥗 [Khao](https://github.com/rohanmalige/khao)
 **Recipe & Food Discovery App**
