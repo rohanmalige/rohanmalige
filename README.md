@@ -96,7 +96,7 @@ A research-grade iOS application for longitudinal monitoring of Parkinson’s di
 ---
 
 ### 📫 Connect with Me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rohanmalige/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rohan-malige-05264518b/)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rohan.malige@gmail.com)
 
 <!--
