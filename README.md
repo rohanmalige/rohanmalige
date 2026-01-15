@@ -88,7 +88,7 @@ A research-grade iOS application for longitudinal monitoring of Parkinson’s di
 
 
 ## 📈 GitHub Stats
-![Rohan's GitHub stats](https://rohanmaligestats.vercel.app/api?username=rohanmalige&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rohanmalige&theme=radical)](https://git.io/streak-stats)
 
 
 ---
