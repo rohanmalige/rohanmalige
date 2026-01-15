@@ -10,7 +10,7 @@ I hold a B.S. in Computer Science & Engineering from the **University of Califor
 - ⚡ **Fun fact:** I love pushing myself to learn new skills, ranging from **Generative AI** to **CUDA programming**!
 
 ---
-
+<!--><-->
 ## 🛠️ Tech Stack
 
 **Languages**
