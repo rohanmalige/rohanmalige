@@ -87,7 +87,7 @@ A research-grade iOS application for longitudinal monitoring of Parkinson’s di
 ---
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rohanmalige)](https://git.io/streak-stats)
 
 ---
 
