@@ -5,7 +5,7 @@
 I hold a B.S. in Computer Science & Engineering from the **University of California, Davis**. I love building cross-platform mobile apps, designing intelligent machine learning systems, and exploring blockchain technology.
 
 - 🔭 I’m currently working on a **Parkinson’s Research App** (iOS) for the **Dr. Chang Lab** and developing ML pipelines for neuroscience research.
-- 👯 I’m looking to collaborate on **Open Source Machine Learning projects**.
+- I’m looking to collaborate on **Open Source Machine Learning projects and iOS app projects.**
 - 🤝 I’m the **Co-founder of the Machine Learning Student Network** and was a **Tech Director** at the Google Developer Student Club. I was also the VP of Marketing and Technical Mentor for [SacHacks](https://sachacks.io/)
 
 ---
